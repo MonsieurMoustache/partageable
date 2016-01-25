@@ -3,6 +3,8 @@
 //
 #ifndef COMPOSANT2_H
 #define COMPOSANT2_H
+#define COMPOSANT2_VERSION 1,0,0,0
+#define COMPOSANT2_VERSION_STR "1, 0, 0, 0"
 
 
 #ifdef COMPOSANT2_EXPORTS
